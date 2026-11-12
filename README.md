@@ -70,7 +70,7 @@ FraudLens/
 Requires Python 3.9 or later.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/anushkasngh31/fraudlens-explainable-credit-card-fraud-detection
 cd FraudLens
 python -m venv .venv
 source .venv/bin/activate
