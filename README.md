@@ -124,3 +124,9 @@ Before publishing changes, check Python syntax and start the dashboard:
 python -m py_compile app.py
 streamlit run app.py
 ```
+## Output
+
+<img width="1380" height="752" alt="image" src="https://github.com/user-attachments/assets/4d1764d0-13eb-48f9-a0e7-a60e15897dd5" />
+<img width="1380" height="752" alt="image" src="https://github.com/user-attachments/assets/1918e74c-a958-4a95-be11-5adb423efe41" />
+
+
